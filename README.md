@@ -17,3 +17,5 @@ To run this project, install it locally using npm:
 $ cd ../Covid19_tracker
 $ npm start
 ```
+
+![Alt text](relative/path/to/covid.jpg?raw=true "Title")
