@@ -18,4 +18,4 @@ $ cd ../Covid19_tracker
 $ npm start
 ```
 
-![Alt text](relative/path/to/Screenshot(47).png?raw=true "Title")
+![Alt text](https://alpha15.s3.ap-south-1.amazonaws.com/Screenshot+(47).png)
